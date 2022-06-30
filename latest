@@ -1,0 +1,11 @@
+# shellcheck shell=sh disable=SC2039,SC3043 # xrc
+
+# author:       Li Junhao           l@x-cmd.com
+
+
+___x_cmd_mosquitto(){
+    :
+}
+
+
+xrc setmain ___x_cmd_mosquitto
